@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @melihekici
-- 👀 I’m interested in deep learning and programming
+- 👀 I’m interested in backend development and deep learning
 - 🌱 I’m currently learning Backend technologies
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -> melih.ekici4@gmail.com
